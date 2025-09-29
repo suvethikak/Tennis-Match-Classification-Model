@@ -3,6 +3,9 @@ This project collects and analyzes match statistics from 500+ WTA players, using
 
 Key features:
 Web scraping pipeline for WTA match stats
+
 Cleaned and structured dataset of 500+ players
+
 Custom Naive Bayes classifier implementation (no scikit-learn or similar packages)
+
 Exploratory analysis on player performance metrics
